@@ -1,4 +1,4 @@
-# Stack Que Question 1
+# Stack Que Question 2
 
 > [link](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
