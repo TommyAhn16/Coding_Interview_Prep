@@ -1,5 +1,7 @@
-# Sorting Question 3
+# H-Index
 
+> Level 2
+>
 > [link](https://programmers.co.kr/learn/courses/30/lessons/42747#)
 
 ## My solution

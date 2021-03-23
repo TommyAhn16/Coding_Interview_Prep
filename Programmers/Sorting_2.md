@@ -1,8 +1,8 @@
-# Sorting Question 2
+# 가장 큰 수
 
-> [link](https://programmers.co.kr/learn/courses/30/lessons/42746)
+> Level 2: very difficult question for me
 >
-> - very difficult question for me
+> [link](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
 ## Bubble sort solution
 

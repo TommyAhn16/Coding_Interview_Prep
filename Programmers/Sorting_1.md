@@ -1,4 +1,6 @@
-# Sorting Question 1
+# K 번째수
+
+> Level 1
 
 > [link](https://programmers.co.kr/learn/courses/30/lessons/42748)
 

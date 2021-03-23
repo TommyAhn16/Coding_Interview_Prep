@@ -9,6 +9,12 @@
 - [기능개발](./Programmers/Stack_Que_3.md) Level 2
 - [프린터](./Programmers/Stack_Que_4.md) Level 2
 
+### 정렬
+
+- [K번째수](./Programmers/Sorting_1.md) Level 1
+- [가장 큰 수](./Programmers/Sorting_1.md) Level 2
+- [H-Index](./Programmers/Sorting_1.md) Level 2
+
 ### 완전 탐색
 
 - [모의고사](./Programmers/Complete_Search_1.md) Level 1
