@@ -27,3 +27,7 @@
 - [전화번호 목록](./Programmers/Hash_2.md) Level 2
 - [위장](./Programmers/Hash_3.md) Level 2
 - [베스트엘범](./Programmers/Hash_4.md) Level 3
+
+### 힙
+
+- [더 맵게](./Programmers/Heap_1.md) Level 2
