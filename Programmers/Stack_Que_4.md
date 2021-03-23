@@ -1,4 +1,4 @@
-# Stack Que Question 4
+# 프린터
 
 > [link](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
