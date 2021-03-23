@@ -1,6 +1,7 @@
 # 프린터
 
 > Level 2
+
 > [link](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
 ## My Solution
