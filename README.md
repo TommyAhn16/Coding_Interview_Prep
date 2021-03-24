@@ -31,4 +31,5 @@
 ### 힙
 
 - [더 맵게](./Programmers/Heap_1.md) Level 2
+- [디스크 컨트롤러](./Programmers/Heap_2.md) Level 3
 - [이중우선순위큐](./Programmers/Heap_3.md) Level 3
