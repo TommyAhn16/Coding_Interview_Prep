@@ -47,3 +47,7 @@
 - [네트워크](./Programmers/Search_2.md) Level 3
 - [단어 변환](./Programmers/Search_3.md) Level 3
 - [여행경로](./Programmers/Search_4.md) Level 3
+
+### 탐욕법 (Greedy)
+
+- [체육복](./Programmers/Greedy_1.md) Level 1
