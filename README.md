@@ -7,6 +7,10 @@
 - [200. Number of Islands](./Leetcode/Leetcode_200.md) Medium
 - [332. Reconstruct Itinerary](./Leetcode/Leetcode_332.md) Medium
 
+### Sorting
+
+- [56. Merge Intervals](./Leetcode/Leetcode_56.md) Medium
+
 # Programmers
 
 ### 스택/큐
