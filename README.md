@@ -14,6 +14,7 @@
 ### Greedy Algorithm
 
 - [122. Best Time to Buy and Sell Stock 2](./Leetcode/Leetcode_122.md) Easy
+- [406. Queue Reconstruction by Height](./Leetcode/Leetcode_406.md) Medium
 
 # Programmers
 
