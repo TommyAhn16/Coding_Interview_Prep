@@ -11,6 +11,10 @@
 
 - [56. Merge Intervals](./Leetcode/Leetcode_56.md) Medium
 
+### Greedy Algorithm
+
+- [122. Best Time to Buy and Sell Stock 2](./Leetcode/Leetcode_122.md) Easy
+
 # Programmers
 
 ### 스택/큐
