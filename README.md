@@ -6,6 +6,9 @@
 
 - [200. Number of Islands](./Leetcode/Leetcode_200.md) Medium
 - [332. Reconstruct Itinerary](./Leetcode/Leetcode_332.md) Medium
+- [17. Letter Combinations of a Phone Number](./Leetcode/Leetcode_17.md) Medium
+- [46. Permutations](./Leetcode/Leetcode_46.md) Medium
+- [77. Combinations](./Leetcode/Leetcode_77.md) Medium
 
 ### Sorting
 
