@@ -19,6 +19,10 @@
 - [122. Best Time to Buy and Sell Stock 2](./Leetcode/Leetcode_122.md) Easy
 - [406. Queue Reconstruction by Height](./Leetcode/Leetcode_406.md) Medium
 
+## Priority Queues
+
+- [253. Meeting Rooms II](./Leetcode/Leetcode_253.md) Medium
+
 # Programmers
 
 ### 스택/큐
