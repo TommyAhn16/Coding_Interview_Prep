@@ -9,6 +9,7 @@
 - [17. Letter Combinations of a Phone Number](./Leetcode/Leetcode_17.md) Medium
 - [46. Permutations](./Leetcode/Leetcode_46.md) Medium
 - [77. Combinations](./Leetcode/Leetcode_77.md) Medium
+- [695. Max Area of Island](./Leetcode/Leetcode_695.md) Medium
 
 ### Sorting
 
