@@ -27,6 +27,7 @@
 ## Tree
 
 - [104. Maximum Depth of Binary Tree](./Leetcode/Leetcode_104.md) Easy
+- [543. Diameter of Binary Tree](./Leetcode/Leetcode_543.md)
 
 # Programmers
 
