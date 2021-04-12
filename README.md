@@ -24,6 +24,10 @@
 
 - [253. Meeting Rooms II](./Leetcode/Leetcode_253.md) Medium
 
+## Tree
+
+- [104. Maximum Depth of Binary Tree](./Leetcode/Leetcode_104.md) Easy
+
 # Programmers
 
 ### 스택/큐
