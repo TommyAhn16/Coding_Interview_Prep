@@ -33,6 +33,7 @@
 - [617. Merge Two Binary Trees](./Leetcode/Leetcode_617.md) Easy
 - [297. Serialize and Deserialize Binary Tree](./Leetcode/Leetcode_297.md) Hard
 - [110. Balanced Binary Tree](./Leetcode/Leetcode_110.md) Easy
+- [310. Minimum Height Trees](./Leetcode/Leetcode_310.md) Medium
 
 # Programmers
 
