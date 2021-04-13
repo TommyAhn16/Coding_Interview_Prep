@@ -19,6 +19,7 @@ class Solution:
     balanced = True
     def isBalanced(self, root: TreeNode) -> bool:
         def dfs(node):
+            # -1 height null value nodes
             if not node:
                 return -1
             left = dfs(node.left)
