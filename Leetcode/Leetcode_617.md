@@ -7,6 +7,8 @@
 # Solution
 
 - Recursively make new nodes of merged tree
+- Time complexity : O(n). We traverse over a total of n nodes. Here, n refers to the smaller of the number of nodes in the two trees.
+- Space complexity : O(n)
 
 ```python
 # Definition for a binary tree node.

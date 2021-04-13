@@ -31,6 +31,8 @@
 - [687. Longest Univalue Path](./Leetcode/Leetcode_687.md) Medium
 - [226. Invert Binary Tree](./Leetcode/Leetcode_226.md) Easy
 - [617. Merge Two Binary Trees](./Leetcode/Leetcode_617.md) Easy
+- [297. Serialize and Deserialize Binary Tree](./Leetcode/Leetcode_297.md) Hard
+- [110. Balanced Binary Tree](./Leetcode/Leetcode_110.md) Easy
 
 # Programmers
 
