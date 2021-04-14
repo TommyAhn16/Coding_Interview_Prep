@@ -35,6 +35,8 @@
 - [110. Balanced Binary Tree](./Leetcode/Leetcode_110.md) Easy
 - [310. Minimum Height Trees](./Leetcode/Leetcode_310.md) Medium
 - [108. Convert Sorted Array to Binary Search Tree](./Leetcode/Leetcode_108.md) Easy
+- [1038. Binary Search Tree to Greater Sum Tree](./Leetcode/Leetcode_1038.md) Medium
+- [938. Range Sum of BST](./Leetcode/Leetcode_938.md) Easy
 
 # Programmers
 
