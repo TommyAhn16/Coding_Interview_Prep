@@ -37,6 +37,8 @@
 - [108. Convert Sorted Array to Binary Search Tree](./Leetcode/Leetcode_108.md) Easy
 - [1038. Binary Search Tree to Greater Sum Tree](./Leetcode/Leetcode_1038.md) Medium
 - [938. Range Sum of BST](./Leetcode/Leetcode_938.md) Easy
+- [783. Minimum Distance Between BST Nodes](./Leetcode/Leetcode_783.md) Easy
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](./Leetcode/Leetcode_105.md) Medium
 
 # Programmers
 
