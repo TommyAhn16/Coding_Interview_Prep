@@ -1,8 +1,8 @@
 # Maximum Depth of Binary Tree
 
-> Easy
->
-> [link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+> - Difficulty: Easy
+> - Type: Tree problem
+> - [link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 # Solution
 
