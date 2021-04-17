@@ -10,6 +10,8 @@
 - [46. Permutations](./Leetcode/Leetcode_46.md) Medium
 - [77. Combinations](./Leetcode/Leetcode_77.md) Medium
 - [695. Max Area of Island](./Leetcode/Leetcode_695.md) Medium
+- [39. Combination Sum](./Leetcode/Leetcode_39.md) Medium
+- [78. Subsets](./Leetcode/Leetcode_78.md) Medium
 
 ### Sorting
 
