@@ -1,10 +1,10 @@
 # Max Area of Island
 
-> Medium
->
-> [link](https://leetcode.com/problems/max-area-of-island/)
+> - Difficulty: Medium
+> - Type: DFS/BFS
+> - [link](https://leetcode.com/problems/max-area-of-island/)
 
-# Solution
+## Solution
 
 - Search island using DFS algo
 - Keep track of island size

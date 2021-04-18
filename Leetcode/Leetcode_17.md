@@ -1,10 +1,10 @@
 # Letter Combinations of a Phone Number
 
-> Medium
->
-> [link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+> - Difficulty: Medium
+> - Type: DFS/BFS
+> - [link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
-# Solution
+## Solution
 
 - Time complexity: O(4^N N), where N is the length of digits. Note that 4 in this expression is referring to the maximum value length in the hash map, and not to the length of the input.
 

@@ -1,10 +1,10 @@
 # Number of Islands
 
-> Medium
->
-> [link](https://leetcode.com/problems/number-of-islands/)
+> - Difficulty: Medium
+> - Type: DFS/BFS
+> - [link](https://leetcode.com/problems/number-of-islands/)
 
-# Solution
+## Solution
 
 - DFS algorithm
 - Implement DFS using recursion

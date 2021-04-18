@@ -1,10 +1,10 @@
 # Reconstruct Itinerary
 
-> Medium
->
-> [link](https://leetcode.com/problems/reconstruct-itinerary/)
+> - Difficulty: Medium
+> - Type: DFS/BFS
+> - [link](https://leetcode.com/problems/reconstruct-itinerary/)
 
-# Solution
+## Solution
 
 - DFS to recursively search until using all tickets
 - sort the graph in alphabetical order before calling DFS

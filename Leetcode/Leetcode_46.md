@@ -1,10 +1,10 @@
 # Permutations
 
-> Medium
->
-> [link](https://leetcode.com/problems/permutations/)
+> - Difficulty: Medium
+> - Type: DFS/BFS
+> - [link](https://leetcode.com/problems/permutations/)
 
-# Solution
+## Solution
 
 - Using python built in permutation function
 
@@ -15,7 +15,7 @@ class Solution:
         return list(map(list,itertools.permutations(nums,len(nums))))
 ```
 
-- Using DFS
+- Using DFS recursively
 
 ```python
 class Solution:

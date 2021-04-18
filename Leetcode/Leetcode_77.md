@@ -15,7 +15,7 @@ class Solution:
         return itertools.combinations(range(1,n+1),k)
 ```
 
-- Using DFS
+- Using DFS recursively
 
 ```python
 class Solution:
