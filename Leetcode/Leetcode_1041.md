@@ -11,9 +11,9 @@
 ```python
 class Solution:
     def isRobotBounded(self, instructions: str) -> bool:
-        # Function to determine next cordinate and direction
         direction = ["N","E","S","W"]
         action =[[0,1],[1,0],[0,-1],[-1,0]]
+        # Function to determine next cordinate and direction
         def get_cord_dir(cur_cord,cur_dir,instruct):
             i = direction.index(cur_dir)
             if instruct == "R":
