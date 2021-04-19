@@ -43,6 +43,10 @@
 - [783. Minimum Distance Between BST Nodes](./Leetcode/Leetcode_783.md) Easy
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Leetcode/Leetcode_105.md) Medium
 
+## Logic
+
+- [1041. Robot Bounded In Circle](./Leetcode/Leetcode_1041.md) Medium
+
 # Programmers
 
 ### 스택/큐
