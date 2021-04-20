@@ -55,6 +55,8 @@
 ## Dynamic Programming
 
 - [509. Fibonacci Number](./Leetcode/Leetcode_509.md) Easy
+- [53. Maximum Subarray](./Leetcode/Leetcode_53.md) Easy
+- [70. Climbing Stairs](./Leetcode/Leetcode_70.md) Easy
 
 # Programmers
 
