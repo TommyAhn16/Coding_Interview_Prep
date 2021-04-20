@@ -102,3 +102,4 @@
 - [2019 카카오 개발자 겨울 인턴십: 불량 사용자](./Kakao/불량_사용자.md) Level 3
 - [2019 KAKAO BLIND RECRUITMENT: 오픈채팅방](./Kakao/오픈채팅방.md) Level 2
 - [2019 KAKAO BLIND RECRUITMENT: 실패율](./Kakao/실패율.md) Level 1
+- [2019 KAKAO BLIND RECRUITMENT: 후보키](./Kakao/후보키.md) Level 2
