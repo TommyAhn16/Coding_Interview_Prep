@@ -46,6 +46,7 @@
 ## Dijkstra's Algorithm (Shortest/Longest Path)
 
 - [743. Network Delay Time](./Leetcode/Leetcode_743.md) Medium
+- [787. Cheapest Flights Within K Stops](./Leetcode/Leetcode_787.md) Medium
 
 ## Logic
 
@@ -99,3 +100,4 @@
 # Kakao
 
 - [2019 카카오 개발자 겨울 인턴십: 불량 사용자](./Kakao/불량_사용자.md) Level 3
+- [2019 KAKAO BLIND RECRUITMENT: 오픈채팅방](./Kakao/오픈채팅방.md) Level 2
