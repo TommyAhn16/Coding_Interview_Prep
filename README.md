@@ -43,6 +43,7 @@
 - [938. Range Sum of BST](./Leetcode/Leetcode_938.md) Easy
 - [783. Minimum Distance Between BST Nodes](./Leetcode/Leetcode_783.md) Easy
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Leetcode/Leetcode_105.md) Medium
+- [208. Implement Trie (Prefix Tree)](./Leetcode/Leetcode_208.md) Medium
 
 ## Dijkstra's Algorithm (Shortest/Longest Path)
 
