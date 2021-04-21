@@ -1,10 +1,10 @@
 # Meeting Rooms II
 
-> Medium
->
-> [link](https://leetcode.com/problems/meeting-rooms-ii/)
+> - Difficulty: Medium
+> - Type: Heap/Priority Que
+> - [link](https://leetcode.com/problems/meeting-rooms-ii/)
 
-# Solution
+## Solution
 
 - Data structure: min heap
 - Algorithm: priority que
