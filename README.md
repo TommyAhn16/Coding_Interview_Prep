@@ -19,6 +19,9 @@
 - [56. Merge Intervals](./Leetcode/Leetcode_56.md) Medium
 - [148. Sort List](./Leetcode/Leetcode_148.md) Medium
 - [179. Largest Number](./Leetcode/Leetcode_179.md) Medium
+- [242. Valid Anagram](./Leetcode/Leetcode_242.md) Easy
+- [75. Sort Colors](./Leetcode/Leetcode_75.md) Medium
+- [973. K Closest Points to Origin](./Leetcode/Leetcode_973.md) Medium
 
 ### Greedy Algorithm
 
