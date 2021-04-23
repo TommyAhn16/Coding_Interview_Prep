@@ -18,6 +18,7 @@
 
 - [56. Merge Intervals](./Leetcode/Leetcode_56.md) Medium
 - [148. Sort List](./Leetcode/Leetcode_148.md) Medium
+- [179. Largest Number](./Leetcode/Leetcode_179.md) Medium
 
 ### Greedy Algorithm
 
