@@ -65,6 +65,7 @@
 - [53. Maximum Subarray](./Leetcode/Leetcode_53.md) Easy
 - [70. Climbing Stairs](./Leetcode/Leetcode_70.md) Easy
 - [198. House Robber](./Leetcode/Leetcode_198.md) Medium
+- [1423. Maximum Points You Can Obtain from Cards](./Leetcode/Leetcode_1423.md) Medium
 
 # Programmers
 
