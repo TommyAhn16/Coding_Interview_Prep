@@ -6,7 +6,7 @@
 
 ## Solution
 
-- key observation: when selecting i cards from the front, k-i cards are selected from the back
+- Key observation: when selecting i cards from the front, k-i cards are selected from the back
 - Make two lists (front,back) that saves the sum of selecting i cards from both front and back
 - Run every combination and find the maximum sum
 - Time Complexity: O(k)

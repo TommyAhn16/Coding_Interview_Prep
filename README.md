@@ -13,6 +13,7 @@
 - [39. Combination Sum](./Leetcode/Leetcode_39.md) Medium
 - [78. Subsets](./Leetcode/Leetcode_78.md) Medium
 - [207. Course Schedule](./Leetcode/Leetcode_207.md) Medium
+- [690. Employee Importance](./Leetcode/Leetcode_690.md) Easy
 
 ### Sorting
 
