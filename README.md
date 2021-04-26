@@ -23,6 +23,7 @@
 - [242. Valid Anagram](./Leetcode/Leetcode_242.md) Easy
 - [75. Sort Colors](./Leetcode/Leetcode_75.md) Medium
 - [973. K Closest Points to Origin](./Leetcode/Leetcode_973.md) Medium
+- [853. Car Fleet](./Leetcode/Leetcode_853.md) Medium
 
 ### Greedy Algorithm
 
@@ -33,6 +34,7 @@
 
 - [253. Meeting Rooms II](./Leetcode/Leetcode_253.md) Medium
 - [215. Kth Largest Element in an Array](./Leetcode/Leetcode_215.md) Medium
+- [1499. Max Value of Equation](./Leetcode/Leetcode_1499.md) Hard
 
 ## Tree
 
