@@ -2,7 +2,11 @@
 
 # LeetCode
 
-### DFS/BFS
+## Hash
+
+- [359. Logger Rate Limiter](./Leetcode/Leetcode_359.md) Easy
+
+## DFS/BFS
 
 - [200. Number of Islands](./Leetcode/Leetcode_200.md) Medium
 - [332. Reconstruct Itinerary](./Leetcode/Leetcode_332.md) Medium
@@ -15,7 +19,7 @@
 - [207. Course Schedule](./Leetcode/Leetcode_207.md) Medium
 - [690. Employee Importance](./Leetcode/Leetcode_690.md) Easy
 
-### Sorting
+## Sorting
 
 - [56. Merge Intervals](./Leetcode/Leetcode_56.md) Medium
 - [148. Sort List](./Leetcode/Leetcode_148.md) Medium
@@ -25,7 +29,7 @@
 - [973. K Closest Points to Origin](./Leetcode/Leetcode_973.md) Medium
 - [853. Car Fleet](./Leetcode/Leetcode_853.md) Medium
 
-### Greedy Algorithm
+## Greedy Algorithm
 
 - [122. Best Time to Buy and Sell Stock 2](./Leetcode/Leetcode_122.md) Easy
 - [406. Queue Reconstruction by Height](./Leetcode/Leetcode_406.md) Medium
@@ -72,50 +76,50 @@
 
 # Programmers
 
-### 스택/큐
+## 스택/큐
 
 - [다리를 지나는 트럭](./Programmers/Stack_Que_1.md) Level 2
 - [주식가격](./Programmers/Stack_Que_2.md) Level 2
 - [기능개발](./Programmers/Stack_Que_3.md) Level 2
 - [프린터](./Programmers/Stack_Que_4.md) Level 2
 
-### 정렬
+## 정렬
 
 - [K번째수](./Programmers/Sorting_1.md) Level 1
 - [가장 큰 수](./Programmers/Sorting_1.md) Level 2
 - [H-Index](./Programmers/Sorting_1.md) Level 2
 
-### 완전 탐색
+## 완전 탐색
 
 - [모의고사](./Programmers/Complete_Search_1.md) Level 1
 - [소수 찾기](./Programmers/Complete_Search_2.md) Level 2
 - [카펫](./Programmers/Complete_Search_3.md) Level 2
 
-### 해시
+## 해시
 
 - [완주하지 못한 선수](./Programmers/Hash_1.md) Level 1
 - [전화번호 목록](./Programmers/Hash_2.md) Level 2
 - [위장](./Programmers/Hash_3.md) Level 2
 - [베스트엘범](./Programmers/Hash_4.md) Level 3
 
-### 힙
+## 힙
 
 - [더 맵게](./Programmers/Heap_1.md) Level 2
 - [디스크 컨트롤러](./Programmers/Heap_2.md) Level 3
 - [이중우선순위큐](./Programmers/Heap_3.md) Level 3
 
-### 깊이/너비 우선 탐색 (DFS/BFS)
+## 깊이/너비 우선 탐색 (DFS/BFS)
 
 - [타겟 넘버](./Programmers/Search_1.md) Level 2
 - [네트워크](./Programmers/Search_2.md) Level 3
 - [단어 변환](./Programmers/Search_3.md) Level 3
 - [여행경로](./Programmers/Search_4.md) Level 3
 
-### 탐욕법 (Greedy)
+## 탐욕법 (Greedy)
 
 - [체육복](./Programmers/Greedy_1.md) Level 1
 
-### 다이나믹 프로그래밍 (Dynamic Programming)
+## 다이나믹 프로그래밍 (Dynamic Programming)
 
 - [멀리 뛰기](./Programmers/DP_1.md) Level 3
 
