@@ -1,16 +1,16 @@
 # My Calendar I
 
 > - Difficulty: Medium
-> - Type: Binary Search Tree
+> - Type: Binary Tree
 > - [link](https://leetcode.com/problems/my-calendar-i/)
 
 ## Solution
 
-- BST solution
-- Time Complexity: (Frome Leetcode Solution) O(n^2) worst case, with O(n log n) on random data. For each new event, we insert the event into our binary tree. As this tree may not be balanced, it may take a linear number of steps to add each event.
+- Binary tree solution
+- Time Complexity: (From Leetcode Solution) O(n^2) worst case, with O(n log n) on random data. For each new event, we insert the event into our binary tree. As this tree may not be balanced, it may take a linear number of steps to add each event.
 
 ```python
-# Create BST
+# Create Binary Tree
 class Node:
     def __init__(self,start,end):
         self.start = start
