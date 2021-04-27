@@ -28,6 +28,7 @@
 - [75. Sort Colors](./Leetcode/Leetcode_75.md) Medium
 - [973. K Closest Points to Origin](./Leetcode/Leetcode_973.md) Medium
 - [853. Car Fleet](./Leetcode/Leetcode_853.md) Medium
+- [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](./Leetcode/Leetcode_1509.md) Medium
 
 ## Greedy Algorithm
 
@@ -56,6 +57,7 @@
 - [783. Minimum Distance Between BST Nodes](./Leetcode/Leetcode_783.md) Easy
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Leetcode/Leetcode_105.md) Medium
 - [208. Implement Trie (Prefix Tree)](./Leetcode/Leetcode_208.md) Medium
+- [729. My Calendar I](./Leetcode/Leetcode_729.md) Medium
 
 ## Dijkstra's Algorithm (Shortest/Longest Path)
 
