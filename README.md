@@ -76,6 +76,11 @@
 - [198. House Robber](./Leetcode/Leetcode_198.md) Medium
 - [1423. Maximum Points You Can Obtain from Cards](./Leetcode/Leetcode_1423.md) Medium
 
+## Binary Search
+
+- [704. Binary Search](./Leetcode/Leetcode_704.md) Easy
+- [33. Search in Rotated Sorted Array](./Leetcode/Leetcode_33.md) Medium
+
 # Programmers
 
 ## 스택/큐
