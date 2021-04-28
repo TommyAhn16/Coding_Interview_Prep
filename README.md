@@ -80,6 +80,9 @@
 
 - [704. Binary Search](./Leetcode/Leetcode_704.md) Easy
 - [33. Search in Rotated Sorted Array](./Leetcode/Leetcode_33.md) Medium
+- [349. Intersection of Two Arrays](./Leetcode/Leetcode_349.md) Easy
+- [167. Two Sum II - Input array is sorted](./Leetcode/Leetcode_167.md) Easy
+- [240. Search a 2D Matrix II](./Leetcode/Leetcode_240.md) Medium
 
 # Programmers
 
