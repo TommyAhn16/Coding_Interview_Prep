@@ -85,6 +85,10 @@
 - [167. Two Sum II - Input array is sorted](./Leetcode/Leetcode_167.md) Easy
 - [240. Search a 2D Matrix II](./Leetcode/Leetcode_240.md) Medium
 
+## Stack/Que
+
+- [1525. Number of Good Ways to Split a String](./Leetcode/Leetcode_1525.md) Medium
+
 # Programmers
 
 ## 스택/큐
