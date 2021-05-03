@@ -146,3 +146,4 @@
 - [2019 KAKAO BLIND RECRUITMENT: 후보키](./Kakao/후보키.md) Level 2
 - [2018 KAKAO BLIND RECRUITMENT: 비밀지도](./Kakao/비밀지도.md) Level 1
 - [2018 KAKAO BLIND RECRUITMENT: 다트 게임](./Kakao/다트게임.md) Level 1
+- [2018 KAKAO BLIND RECRUITMENT: 뉴스 클러스터링](./Kakao/뉴스클러스터링.md) Level 2
