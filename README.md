@@ -149,3 +149,5 @@
 - [2018 KAKAO BLIND RECRUITMENT: 뉴스 클러스터링](./Kakao/뉴스클러스터링.md) Level 2
 - [2018 KAKAO BLIND RECRUITMENT: 프렌즈4블록](./Kakao/프렌즈4블록.md) Level 2
 - [2018 KAKAO BLIND RECRUITMENT: 캐시](./Kakao/캐시.md) Level 2
+- [2018 KAKAO BLIND RECRUITMENT: 셔틀버스](./Kakao/셔틀버스.md) Level 3
+- [2018 KAKAO BLIND RECRUITMENT: 추석 트래픽](./Kakao/추석트래픽.md) Level 3
