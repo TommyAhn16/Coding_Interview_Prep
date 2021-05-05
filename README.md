@@ -151,3 +151,6 @@
 - [2018 KAKAO BLIND RECRUITMENT: 캐시](./Kakao/캐시.md) Level 2
 - [2018 KAKAO BLIND RECRUITMENT: 셔틀버스](./Kakao/셔틀버스.md) Level 3
 - [2018 KAKAO BLIND RECRUITMENT: 추석 트래픽](./Kakao/추석트래픽.md) Level 3
+- [2020 카카오 인턴십: 키패드 누르기](./Kakao/키패드누르기.md) Level 1
+- [2020 카카오 인턴십: 수식 최대화](./Kakao/수식최대화.md) Level 2
+- [2020 카카오 인턴십: 보석 쇼핑](./Kakao/보석쇼핑.md) Level 3
