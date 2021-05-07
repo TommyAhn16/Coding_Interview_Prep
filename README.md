@@ -141,6 +141,10 @@
 # Kakao
 
 - [2019 카카오 개발자 겨울 인턴십: 불량 사용자](./Kakao/불량_사용자.md) Level 3
+- [2019 카카오 개발자 겨울 인턴십: 크레인 인형뽑기 게임](./Kakao/크레인.md) Level 1
+- [2019 카카오 개발자 겨울 인턴십: 튜플](./Kakao/튜플.md) Level 2
+- [2019 카카오 개발자 겨울 인턴십: 호텔 방 배정](./Kakao/호텔_방_배정.md) Level 4
+- [2019 카카오 개발자 겨울 인턴십: 징검다리 건너기](./Kakao/징검다리_건너기.md) Level 3
 - [2019 KAKAO BLIND RECRUITMENT: 오픈채팅방](./Kakao/오픈채팅방.md) Level 2
 - [2019 KAKAO BLIND RECRUITMENT: 실패율](./Kakao/실패율.md) Level 1
 - [2019 KAKAO BLIND RECRUITMENT: 후보키](./Kakao/후보키.md) Level 2
