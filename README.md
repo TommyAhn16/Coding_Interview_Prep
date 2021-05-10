@@ -161,3 +161,4 @@
 - [2021 KAKAO BLIND RECRUITMENT: 신규 아이디 추천](./Kakao/신규_아이디_추천.md) Level 1
 - [2021 KAKAO BLIND RECRUITMENT: 메뉴 리뉴얼](./Kakao/메뉴_리뉴얼.md) Level 2
 - [2021 KAKAO BLIND RECRUITMENT: 순위 검색](./Kakao/순위_검색.md) Level 2
+- [2021 KAKAO BLIND RECRUITMENT: 합승 택시 요금](./Kakao/합승_택시_요금.md) Level 3
