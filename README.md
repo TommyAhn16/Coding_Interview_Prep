@@ -140,6 +140,13 @@
 
 # Kakao
 
+- [2018 KAKAO BLIND RECRUITMENT: 비밀지도](./Kakao/비밀지도.md) Level 1
+- [2018 KAKAO BLIND RECRUITMENT: 다트 게임](./Kakao/다트게임.md) Level 1
+- [2018 KAKAO BLIND RECRUITMENT: 뉴스 클러스터링](./Kakao/뉴스클러스터링.md) Level 2
+- [2018 KAKAO BLIND RECRUITMENT: 프렌즈4블록](./Kakao/프렌즈4블록.md) Level 2
+- [2018 KAKAO BLIND RECRUITMENT: 캐시](./Kakao/캐시.md) Level 2
+- [2018 KAKAO BLIND RECRUITMENT: 셔틀버스](./Kakao/셔틀버스.md) Level 3
+- [2018 KAKAO BLIND RECRUITMENT: 추석 트래픽](./Kakao/추석트래픽.md) Level 3
 - [2019 카카오 개발자 겨울 인턴십: 불량 사용자](./Kakao/불량_사용자.md) Level 3
 - [2019 카카오 개발자 겨울 인턴십: 크레인 인형뽑기 게임](./Kakao/크레인.md) Level 1
 - [2019 카카오 개발자 겨울 인턴십: 튜플](./Kakao/튜플.md) Level 2
@@ -148,13 +155,9 @@
 - [2019 KAKAO BLIND RECRUITMENT: 오픈채팅방](./Kakao/오픈채팅방.md) Level 2
 - [2019 KAKAO BLIND RECRUITMENT: 실패율](./Kakao/실패율.md) Level 1
 - [2019 KAKAO BLIND RECRUITMENT: 후보키](./Kakao/후보키.md) Level 2
-- [2018 KAKAO BLIND RECRUITMENT: 비밀지도](./Kakao/비밀지도.md) Level 1
-- [2018 KAKAO BLIND RECRUITMENT: 다트 게임](./Kakao/다트게임.md) Level 1
-- [2018 KAKAO BLIND RECRUITMENT: 뉴스 클러스터링](./Kakao/뉴스클러스터링.md) Level 2
-- [2018 KAKAO BLIND RECRUITMENT: 프렌즈4블록](./Kakao/프렌즈4블록.md) Level 2
-- [2018 KAKAO BLIND RECRUITMENT: 캐시](./Kakao/캐시.md) Level 2
-- [2018 KAKAO BLIND RECRUITMENT: 셔틀버스](./Kakao/셔틀버스.md) Level 3
-- [2018 KAKAO BLIND RECRUITMENT: 추석 트래픽](./Kakao/추석트래픽.md) Level 3
 - [2020 카카오 인턴십: 키패드 누르기](./Kakao/키패드누르기.md) Level 1
 - [2020 카카오 인턴십: 수식 최대화](./Kakao/수식최대화.md) Level 2
 - [2020 카카오 인턴십: 보석 쇼핑](./Kakao/보석쇼핑.md) Level 3
+- [2021 KAKAO BLIND RECRUITMENT: 신규 아이디 추천](./Kakao/신규_아이디_추천.md) Level 1
+- [2021 KAKAO BLIND RECRUITMENT: 메뉴 리뉴얼](./Kakao/메뉴_리뉴얼.md) Level 2
+- [2021 KAKAO BLIND RECRUITMENT: 순위 검색](./Kakao/순위_검색.md) Level 2
